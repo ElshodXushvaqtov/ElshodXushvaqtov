@@ -23,4 +23,3 @@ Junior Data Analyst with a background in banking, transitioning into broader dat
 ## 📫 Contact
 
 [LinkedIn](https://www.linkedin.com/in/elshodbek-xushvaqtov-184b6a252?utm_source=share_via&utm_content=profile&utm_medium=member_android) · [Email](elshodxushvaqtov253@email.com)
- 
