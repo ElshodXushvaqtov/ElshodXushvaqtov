@@ -6,7 +6,7 @@ Data Analyst with a background in banking, transitioning into broader data roles
 
 ## 🛠️ Tools & Skills
 
-**Languages:** SQL · Python
+**Languages:** SQL · Python              
 **BI & Visualization:** Power BI · Tableau · Apache Superset                            
 **Other:** Git · Data Cleaning · Exploratory Data Analysis
 
