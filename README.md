@@ -14,7 +14,7 @@ Junior Data Analyst with a background in banking, transitioning into broader dat
 
 ## 📈 Currently Learning
 
-- Advanced SQL (window functions, query optimization)
+- Advanced SQL
 - Statistics & A/B testing
 - Advanced Python
 
