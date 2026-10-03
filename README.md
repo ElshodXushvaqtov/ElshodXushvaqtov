@@ -1,6 +1,6 @@
 # Hi, I'm Elshodbek Xushvaqtov 👋
 
-Junior Data Analyst with a background in banking, transitioning into broader data analytics roles. I work with real-world financial data and am building skills across the full analytics stack.
+Data Analyst with a background in banking, transitioning into broader data roles. I work with real-world financial data and am building skills across the full data stack.
 
 ---
 
