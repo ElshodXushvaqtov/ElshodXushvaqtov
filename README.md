@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F766E,100:14B8A6&height=170&section=header&text=Elshodbek%20Xushvaqtov&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Analyst%20%C2%B7%20Banking%20Analytics%20%C2%B7%20Applied%20AI&descAlignY=58&descSize=17" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F766E,100:14B8A6&height=170&section=header&text=Elshodbek%20Xushvaqtov&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Analyst%20%C2%B7%20Banking%20Analytics%20%C2%B7%20Data%20Engineering&descAlignY=58&descSize=17" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=14B8A6&center=true&vCenter=true&width=600&lines=SQL+%E2%86%92+dashboards+%E2%86%92+decisions;Building+KPI+scorecards+for+a+national+bank;RAG+pipelines+for+Uzbek-language+documents" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=14B8A6&center=true&vCenter=true&width=600&lines=SQL+%E2%86%92+dashboards+%E2%86%92+decisions;Turning+banking+data+into+insight;Building+tested+data+pipelines" />
 
 </div>
 
 ### 👋 About
 
 Data Analyst in the **Data Management department at Xalq Banki** — Uzbekistan's largest bank — and a Software Engineering student at **New Uzbekistan University**.
-I turn raw banking data into SQL models and dashboards that people use to make decisions, and I like taking AI from demo to something a real department can use.
+I turn raw banking data into SQL models and dashboards that people use to make decisions, and I care about data that is clean, tested and easy to trust.
 
 - 🏦 **Now:** credit and financial analytics, data modeling and executive dashboards
 - 🧱 **Learning:** analytics engineering with dbt + Airflow, statistics & A/B testing
@@ -29,10 +29,8 @@ I turn raw banking data into SQL models and dashboards that people use to make d
   <br/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/FAISS%20%2F%20RAG-0F766E?style=flat-square" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
 </p>
 
@@ -51,7 +49,6 @@ I turn raw banking data into SQL models and dashboards that people use to make d
 
 | Project | What it is | Stack |
 |---|---|---|
-| **[SQB Legal AI](https://github.com/ElshodXushvaqtov/sqb-legal-ai)** | Automates a bank's replies to official requests (prosecutor's office, tax authority, Central Bank): upload a PDF → AI classifies type, deadline and risk → drafts a legally grounded answer in **Uzbek** via RAG over 10 Uzbek laws → operator approves or rejects, with audit trail. *GDG Build with AI hackathon.* | FastAPI · Gemini · LangChain · FAISS |
 | **[mini-data-stack](https://github.com/ElshodXushvaqtov/first_local_dwh)** | Fully local warehouse: raw CSVs read in place by DuckDB → dbt staging views → dimensional lending marts, SCD Type 2 client snapshot, generic + singular tests. CI lints with sqlfluff and rebuilds from scratch on every push. | dbt · DuckDB · GitHub Actions |
 | **[UzHealthcare](https://github.com/ElshodXushvaqtov/UzHealthcare)** | Regional health-risk platform: 0–100 risk score per region from open data, driver breakdown (doctors, beds, disease, mortality), interactive map and auto-generated recommendations vs. national benchmarks. 3 languages. *Open Data Hackathon.* | Flask · Pandas · Leaflet · Chart.js |
 | **[Health Tracking Dashboard](https://github.com/ElshodXushvaqtov/General-Health-Tracking-Dashboard)** | Power BI dashboard of health conditions and medical trends across Uzbekistan's regions. | Power BI |
